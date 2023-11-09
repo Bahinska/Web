@@ -1,0 +1,21 @@
+# Node modules and cache
+node_modules/
+.cache/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.log
+*.swp
+*.swo
+*.sublime*
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
